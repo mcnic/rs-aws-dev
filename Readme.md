@@ -37,7 +37,7 @@ This program covers a wide range of topics according to the following
 
 This program will have theory and practice on the following topics:
 
-### Module 1 - [Cloud Introduction](01_cloud_introduction/README.md)
+### Module 1 - [Cloud Introduction](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/01_cloud_introduction/README.md)
 
 - Fundamental Theory about Cloud Computing
 - Cloud Service Models, Cloud Deployment Models, Infrastructure-as-Code
@@ -45,7 +45,7 @@ This program will have theory and practice on the following topics:
 - AWS Intro, Registration, Cloud Watch, IAM
 - Repository structure
 
-### Module 2 - [Serving SPA](02_serving_spa/README.md)
+### Module 2 - [Serving SPA](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/02_serving_spa/README.md)
 
 - AWS Simple Storage Service overview
 - Services & Tools overview
@@ -53,18 +53,18 @@ This program will have theory and practice on the following topics:
 - Basic overview of deployment process to CloudFront and S3
 - AWS CLI overview
 
-### Module 3 - [Serverless API](03_serverless_api/README.md)
+### Module 3 - [Serverless API](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/03_serverless_api/README.md)
 
 - AWS Lambda Overview
 - Introduction to Collecting logs with AWS CloudWatch
 - Lambda Advanced Features and Configuration
 
-### Module 4 - [Integration with NoSQL Database](04_integration_with_nosql_database/README.md)
+### Module 4 - [Integration with NoSQL Database](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/04_integration_with_nosql_database/README.md)
 
 - Easy way to store data in Cloud
 - AWS DynamoDB and how to use it
 
-### Module 5 - [Integration with S3](05_integration_with_s3/README.md)
+### Module 5 - [Integration with S3](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/05_integration_with_s3/README.md)
 
 - AWS S3 In-depth Introduction
 - S3 Storage Classes and their Use Cases
@@ -72,14 +72,14 @@ This program will have theory and practice on the following topics:
 - S3 Versioning, Lifecycle Management & Events
 - Integration with S3 and Lambda Overview
 
-### Module 6 - [Async Microservices Communication](06_async_microservices_communication/README.md)
+### Module 6 - [Async Microservices Communication](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/06_async_microservices_communication/README.md)
 
 - Async Messaging Overview
 - AWS SQS Overview
 - AWS SNS Overview
 - Integration with SQS, SNS and Lambda Overview
 
-### Module 7 - [Authorization](07_authorization/README.md)
+### Module 7 - [Authorization](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/07_authorization/README.md)
 
 - Authentication & Authorization overview
 - Lambda Authorizer & API Gateway
@@ -87,7 +87,7 @@ This program will have theory and practice on the following topics:
 - Cognito User Pool
 - Cognito Identity Pool
 
-### Module 8 - [Integration with SQL Database](08_integration_with_sql_database/README.md)
+### Module 8 - [Integration with SQL Database](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/08_integration_with_sql_database/README.md)
 
 - Relational Databases Theory
 - SQL Overview
@@ -95,7 +95,7 @@ This program will have theory and practice on the following topics:
 - AWS RDS and its engines
 - Serverless functions & AWS RDS
 
-### Module 9 - [Containerization](09_containerization/README.md)
+### Module 9 - [Containerization](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/09_containerization/README.md)
 
 - Docker overview
 - Dockerfiles & Images
@@ -104,7 +104,7 @@ This program will have theory and practice on the following topics:
 - AWS Elastic Beanstalk overview
 - AWS EB CLI
 
-### Module 10 - [Backend For Frontend](10_backend_for_frontend/README.md)
+### Module 10 - [Backend For Frontend](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/10_backend_for_frontend/README.md)
 
 - Backend for Frontend overview
 - BFF as Pattern
