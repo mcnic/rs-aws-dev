@@ -1,4 +1,6 @@
-## My free-learning course from [link](https://github.com/rolling-scopes-school/aws/tree/main/aws-developer)
+## My free-learning course [from](https://github.com/rolling-scopes-school/aws/tree/main/aws-developer)
+
+## Other featured [course for NodeJs](https://github.com/rolling-scopes-school/nodejs-aws-tasks)
 
 # AWS Cloud Developer
 
