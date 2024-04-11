@@ -31,7 +31,7 @@ English language level: Intermediate (B1) and up. Being able to spend at least
 ## Course Architecture
 
 This program covers a wide range of topics according to the following
-[architecture](Architecture.pdf).
+[architecture](https://github.com/rolling-scopes-school/aws/blob/main/aws-developer/Architecture.pdf).
 
 ## Course Curriculum
 
